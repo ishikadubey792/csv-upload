@@ -1,12 +1,6 @@
 
 
-## Installation
-To install CSV_Upload, please follow these steps:
 
-Clone this repository using the following command:
-```
-$ git clone (https://github.com/imsatishbind21/Coding-Ninjas-BACKEND-SKILLTEST-CSVUpload)
-```
 Install the required dependencies using the following command:
 ```
 $ npm install 
